@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\test.vue",
+    "chunkName": "pages/test"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "D:\\\\Lab\\\\server\\\\me\\\\nuxt-content-blog-theme\\\\pages\\\\_slug.vue",
+    "chunkName": "pages/_slug"
+  }
+]

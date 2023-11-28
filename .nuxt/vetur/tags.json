@@ -1,0 +1,20 @@
+{
+  "InfoBox": {
+    "description": "Auto imported from components/global/InfoBox.vue"
+  },
+  "LazyInfoBox": {
+    "description": "Auto imported from components/global/InfoBox.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "PrevNext": {
+    "description": "Auto imported from components/PrevNext.vue"
+  },
+  "LazyPrevNext": {
+    "description": "Auto imported from components/PrevNext.vue"
+  }
+}
