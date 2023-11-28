@@ -54,8 +54,12 @@ export default {
   */
   modules: [
     // Doc: https://github.com/nuxt/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/axios'
   ],
+  axios: {
+    // proxy: true
+  },
   /*
   ** Content module configuration
   ** See https://content.nuxtjs.org/configuration
